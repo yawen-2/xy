@@ -3,483 +3,114 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>雅文网</title>
+    <link rel="stylesheet" type="text/css" href="css/yawen.css">
+</head>
 
-    <head name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>旭辉驾校</title>
-    </head>
-
-    <body>
-        <div style="width: 600px; height: 100%; margin: 100px auto;">
-            <table border="1" cellspacing="1" cellpadding="10">
-                <caption style="font-style: 50px;font-weight: 700;">学员信息表</caption>
-                <thead>
-                    <tr>
-
-
-                        <th>姓名</th>
-                        <th>科目一</th>
-                        <th>科目二</th>
-                        <th>科目三</th>
-                        <th>科目四</th>
-                        <th>考试通过</th>
-                        <th>联系电话</th>
-                    </tr>
-
-                </thead>
-
-                <tbody>
-                    <tr>
-                        <td>张志霞</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>13411241948</td>
-                    </tr>
-
-                    <tr>
-                        <td>胡伟云</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>廖灼华</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>13430149682</td>
-                    </tr>
-
-                    <tr>
-                        <td>胡伟红</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>13450747452</td>
-                    </tr>
-
-                    <tr>
-                        <td>古文中</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>18211466916</td>
-                    </tr>
-
-                    <tr>
-                        <td>古盛平</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>18344197024</td>
-                    </tr>
-
-                    <tr>
-                        <td>张标辉</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>古育钦</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>古昌辉</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>徐福才</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>13610125566</td>
-                    </tr>
-
-                    <tr>
-                        <td>古会良</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>胡兆勇</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>胡为励</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>胡文明</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>胡雪婷</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>胡丽珍</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>胡兆纵</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>陈卓妮</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>张秋红</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>张雪云</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>杨丽娜</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    h
-                    <tr>
-                        <td>胡为储</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>李美彩</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>14778584266</td>
-                    </tr>
-
-                    <tr>
-                        <td>陈培荣</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>678867</td>
-                    </tr>
-
-                    <tr>
-                        <td>陈金贞</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>叶义杨</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>13549119315</td>
-                    </tr>
-
-                    <tr>
-                        <td>李禄泉</td>
-                        <td>合格</td>
-                        <td>合格</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>15876700435</td>
-                    </tr>
-
-                    <tr>
-                        <td>陈彩燕</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>胡柳浩</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>张浪清</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>张菊花</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>张定平</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>18824307748</td>
-                    </tr>
-
-                    <tr>
-                        <td>宋燕丽</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>13826627335</td>
-                    </tr>
-
-                    <tr>
-                        <td>胡</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-
-                    <tr>
-                        <td>陈丹妮</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>18718120077</td>
-                    </tr>
-
-                    <tr>
-                        <td>张浪粘</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>14754253449</td>
-                    </tr>
-
-                    <tr>
-                        <td>张建</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>13430141725</td>
-                    </tr>
-
-                    <tr>
-                        <td>王燕平</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>14778800135</td>
-                    </tr>
-
-                    <tr>
-                        <td>胡沛珍</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>692645</td>
-                    </tr>
-
-                    <tr>
-                        <td>宋振辉</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>15986453223</td>
-                    </tr>
-
-                    <tr>
-                        <td>王燕平</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>14778800135</td>
-                    </tr>
-
-
-                    <tr>
-                        <td>张婵娟</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>13549106252</td>
-                    </tr>
-
-                    <tr>
-                        <td>张妙香</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>14754298281</td>
-                    </tr>
-
-
-
-
-
-
-
-
-
-                </tbody>
-
-                <tfoot style="color: white;background: #369;">
-                    <tr>
-                        <td colspan="6">旭辉驾校/古教</td>
-                        <td>13826606448</td>
-                    </tr>
-                </tfoot>
-
-
-            </table>
-
-
+<body>
+    <header style="width: 100%;height: 400px;margin-bottom: 50px;">
+        <div>
+            <div id="a1"><img src="images/01.jpg" alt=""></div>
+            <div id="a2"><img src="images/02.jpg" alt=""></div>
+            <div id="a3"><img src="images/03.jpg" alt=""></div>
+            <div id="a4"><img src="images/04.jpg" alt=""></div>
+            <div id="a5"><img src="images/05.jpg" alt=""></div>
+            <div id="a6"><img src="images/06.jpg" alt=""></div>
         </div>
+    </header>
+    <div style="width: 800px; height: 40px;margin-left: 600px;margin-bottom: 50px;">
+        <form id="search-form" action="https://www.baidu.com/s?ie=utf-8">
+            <div id="search-area" class="line-controls">
+                <input id="search-input" type="text" width="160px" height="40px" placeholder="搜索服务" autocomplete="off" name="wd">
+                <button id="submit">搜索</button>
+            </div>
+        </form>
+    </div>
+
+    <nav style="width: 100%;height: 180px; ">
+        <div style="width: 100%;height: 50px; border: 1px solid #aaaaaa; margin-top: 130px;">
+            <ul>
+                <li>
+                    <a href="#">首页</a>
+                </li>
+                <li>
+                    <a href="./sp.html" target="_blank">视频</a>
+                </li>
+                <li>
+                    <a href="./yp.html" target="_blank">音频</a>
+                </li>
+                <li>
+                    <a href="./ds.html" target="_blank">电商</a>
+                </li>
+                <li>
+                    <a href="./pzsy.html" target="_blank">拍照摄影</a>
+                </li>
+
+                <li>
+                    <a href="ypsc.html" target="_blank">音乐素材库</a>
+                </li>
+
+                <li>
+                    <a href="spsc.html" target="_blank">视频素材库</a>
+                </li>
+
+                <li>
+                    <a href="#" target="_blank">产品测试</a>
+                </li>
+
+                <li>
+                    <a href="./sygj.html" target="_blank">实用工具</a>
+                </li>
+
+                <li>
+                    <a href="./zhwz.html" target="_blank">综合网站</a>
+                </li>
+
+
+
+
+            </ul>
+        </div>
+    </nav>
+    <article style="width: 100%;height: 600px;margin-top: 50px;display: flex;justify-content: space-between;">
+        <a href="#">
+            <section>
+                <p></p>
+                <h1>欢迎光临</h1>
+            </section>
+        </a>
+
+        <a href="#">
+            <section>
+                <p></p>
+                <h1>欢迎再次光临</h1>
+            </section>
+        </a>
+
+        <a href="#">
+            <section>
+                <p></p>
+                <h1>谢谢！</h1>
+            </section>
+        </a>
+
+
+
+
+
+
+
+
+
+
+
+        2
+    </article>
+    <footer style="width: 100%;height: 200px;background: #eeeeee">
+        3
+    </footer>
+
+</body>
 
 </html>

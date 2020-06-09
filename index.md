@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 
     <head name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
+        <title>旭辉驾校</title>
     </head>
 
     <body>
